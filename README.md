@@ -3,6 +3,8 @@
 
 kash - Kilembo Shell, my implementation of an interface between the user and operating system kernel for linux machines based on the Bourne Shell (sh) and csh with a few extra features.
 
+#### The project source code is proprietary and this repo serves to demonstrate functionality
+
 ### Functionality
 The following are the basic things it can do, I'll be adding more features as time goes on.
 
