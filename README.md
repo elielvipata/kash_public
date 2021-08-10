@@ -5,6 +5,8 @@ kash - Kilembo Shell, my implementation of an interface between the user and ope
 
 #### Note: The project source code is proprietary and this repo serves to demonstrate functionality
 
+[]('https://github.com/elielvipata/kash_public/blob/main/kash.gif')
+
 ### Functionality
 The following are the basic things it can do, I'll be adding more features as time goes on.
 
