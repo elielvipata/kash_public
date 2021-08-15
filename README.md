@@ -16,6 +16,7 @@ The following are the basic things it can do, I'll be adding more features as ti
 - [ ] Background Tasks
 - [ ] Pipes
 - [ ] Handle Signals and Quotes
+- [ ] Environment Variables
 - [ ] Execute a subshell
 - [ ] Wildcard Expansion
 - [ ] Line editing and Path completion
