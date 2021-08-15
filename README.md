@@ -13,6 +13,7 @@ The following are the basic things it can do, I'll be adding more features as ti
 - [x] Parse User Input
 - [x] Execute Commands, including command arguments
 - [ ] Redirection and IO
+- [ ] Background Tasks
 - [ ] Pipes
 - [ ] Handle Signals and Quotes
 - [ ] Execute a subshell
