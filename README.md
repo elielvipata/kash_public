@@ -14,7 +14,7 @@ The following are the basic things it can do, I'll be adding more features as ti
 - [x] Execute Commands, including command arguments
 - [x] Redirection and IO
 - [x] Background Tasks
-- [ ] Pipes
+- [x] Pipes
 - [ ] Handle Signals and Quotes
 - [ ] Environment Variables
 - [ ] Execute a subshell
