@@ -15,13 +15,12 @@ The following are the basic things it can do, I'll be adding more features as ti
 - [x] Redirection and IO
 - [x] Background Tasks
 - [x] Pipes
-- [ ] Handle Signals and Quotes
-- [ ] Environment Variables
-- [ ] Permanent Environment variables
-- [ ] Execute a subshell
+- [x] Handle Signals and Quotes
+- [x] Environment Variables
+- [ ] Subshells
 - [ ] Wildcard Expansion
-- [ ] Line editing and Path completion
-- [ ] Command History
+- [x] Line editing and Path completion
+- [x] Command History
 - [ ] Built in Arithmetic
 - [ ] Functions
 - [ ] Array (Custom)
